@@ -5,11 +5,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFB6C1&center=true&vCenter=true&width=490&lines=Bienvenidos)
 
 
-</div>
+<p align="center">
 
 <img alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBlcXZtMzhnM3gxdmk1YTVueXFxdjA4NmtzdmJ5MzZldmdsaWhwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PoHVT5kEyNWcN0CWNj/giphy.gif">
 
-<br><br>
+</p>
 
   
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=C71585&center=true&vCenter=true&width=650&lines=Mi+nombre+es+Francesca+Carcamo+Lopez)
